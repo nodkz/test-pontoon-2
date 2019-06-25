@@ -8,4 +8,4 @@ shared-photos =
        *[other] their stream
     }.
 
-привет-мир = Привет
+hi = Привет
