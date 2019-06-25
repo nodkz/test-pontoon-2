@@ -7,3 +7,5 @@ shared-photos =
         [female] her stream
        *[other] their stream
     }.
+
+привет-мир = Привет
