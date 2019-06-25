@@ -7,3 +7,4 @@ shared-photos =
         [female] her stream
        *[other] their stream
     }.
+hi = Hello
