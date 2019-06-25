@@ -9,3 +9,4 @@ shared-photos =
         [female] её поток
        *[other] их поток
     }.
+hi = Привет
