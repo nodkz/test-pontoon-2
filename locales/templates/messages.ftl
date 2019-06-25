@@ -9,3 +9,5 @@ shared-photos =
     }.
 
 hi = Привет
+
+test-wrappers = Read the <0>documentation</0> for more info.
